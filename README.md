@@ -1,1 +1,1 @@
-# carbon_jaan.fpv_3030_2020_adapter
+# jaan.fpv carbon adapter adapter for 30,5x30,5 and 20x20 stacks
